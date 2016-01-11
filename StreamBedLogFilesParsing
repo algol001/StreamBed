@@ -1,0 +1,8 @@
+#open path
+#copy all docs from subfolder into 1 text file
+#search for number of incorrects
+#search for number of correct 
+#search for number of correct inside incorrect
+#find beginning timestamp
+#find ending timestamp
+#subtract timestamps to get total time
